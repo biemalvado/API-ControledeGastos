@@ -1,4 +1,4 @@
-﻿using Api.Data; // Pode ser que o seu namespace de Data seja diferente, ajuste se o AppDbContext ficar sublinhado de vermelho
+﻿using Api.Data; 
 using Api.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
